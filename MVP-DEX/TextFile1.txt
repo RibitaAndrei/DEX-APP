@@ -1,0 +1,12 @@
+galben,culoare,culoarea soarelui; culoare componenta a steagului Romaniei situata in centru, C:\Users\andre\Desktop\MVP-DEX\galben.png 
+albastru,culoare,culoarea cerului senin, C:\Users\andre\Desktop\MVP-DEX\albastru.png
+verde,culoare,culoarea ierbii; culoarea frunzelor a copacilor, C:\Users\andre\Desktop\MVP-DEX\verde.png
+alb,culoare,opusul negrului, C:\Users\andre\Desktop\MVP-DEX\default.png
+fluture,insecta,insecta colorata ce apare primavara cu diferite modele colorate,C:\Users\andre\Desktop\MVP-DEX\fluture.png
+negru,culoare,opusul albului; intunericul, C:\Users\andre\Desktop\MVP-DEX\negru.png
+laptop,device,Dispozitiv portabil.,C:\Users\andre\Desktop\MVP-DEX\laptop.png
+telefon,device,Fara ce nu poate supravietuii omul?,C:\Users\andre\Desktop\MVP-DEX\telefon.png
+libelula,insecta,Traieste deasupra apei in zonele barajelor,C:\Users\andre\Desktop\MVP-DEX\libelula.png
+calculator,device,Dispozitiv de tip workstation cu multe lumini,C:\Users\andre\Desktop\MVP-DEX\calculator.png
+tigaie,ustensile, Tigaie preferata a romanilor, C:\Users\andre\Desktop\MVP-DEX\tigaie.png
+musca,insecta,, C:\Users\andre\Desktop\MVP-DEX\musca.png
